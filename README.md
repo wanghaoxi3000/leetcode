@@ -21,6 +21,7 @@ LeetCode 解题记录
 - 219.[Contains Duplicate II 存在重复元素 II](./Go/219_containsNearbyDuplicateII.go)
 - 167.[Two Sum II - Input array is sorted 两数之和 II - 输入有序数组](./Go/167_twoSum2.go)
 - 268.[missingNumber 缺失数字](./Go/268_missingNumber.go)
+- 344.[Reverse String 反转字符串](./Go/344_reverseString.go)
 - 349.[Intersection of Two Arrays 两个数组的交集](./Go/349_intersection.go)
 - 454.[4Sum II 四数相加 II](./Go/454_4SumII.go)
 - 447.[Number of Boomerangs 回旋镖的数量](./Go/447_numberOfBoomerangs.go)
