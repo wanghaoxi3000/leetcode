@@ -27,3 +27,6 @@ LeetCode 解题记录
 - 447.[Number of Boomerangs 回旋镖的数量](./Go/447_numberOfBoomerangs.go)
 - 695.[Max Area of Island 岛屿的最大面积](./Go/695_maxAreaOfIsland.go)
 - 674.[Longest Continuous Increasing Subsequence 最长连续递增序列](./Go/674_findLengthOfLCIS.go)
+
+## linklist 链表
+- 203.[Remove Linked List Elements](./linklist/203_remove_elements.go)
