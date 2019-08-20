@@ -13,6 +13,7 @@ type ListNode struct {
 	Next *ListNode
 }
 
+// 使用虚拟头节点
 func removeElements(head *ListNode, val int) *ListNode {
 	dummyHead := &ListNode{0, head}
 	cur := dummyHead
@@ -26,4 +27,16 @@ func removeElements(head *ListNode, val int) *ListNode {
 	}
 
 	return dummyHead.Next
+}
+
+// 递归算法
+func removeElementsRecursion(head *ListNode, val int) *ListNode {
+	if head == nil {
+		return nil
+	}
+	head.Next = removeElementsRecursion(head.Next, val)
+	if head.Val == val {
+		return head.Next
+	}
+	return head
 }
