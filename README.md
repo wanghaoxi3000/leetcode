@@ -29,4 +29,5 @@ LeetCode 解题记录
 - 674.[Longest Continuous Increasing Subsequence 最长连续递增序列](./Go/674_findLengthOfLCIS.go)
 
 ## linklist 链表
-- 203.[Remove Linked List Elements](./linklist/203_remove_elements.go)
+- 24.[Swap Nodes in Pairs 两两交换链表中的节点](./linklist/24_swap_pairs.go)
+- 203.[Remove Linked List Elements 移除链表元素](./linklist/203_remove_elements.go)

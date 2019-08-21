@@ -8,11 +8,6 @@
 */
 package linklist
 
-type ListNode struct {
-	Val  int
-	Next *ListNode
-}
-
 // 使用虚拟头节点
 func removeElements(head *ListNode, val int) *ListNode {
 	dummyHead := &ListNode{0, head}
