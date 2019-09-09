@@ -30,4 +30,5 @@ LeetCode 解题记录
 
 ## linklist 链表
 - 24.[Swap Nodes in Pairs 两两交换链表中的节点](./linklist/24_swap_pairs.go)
+- 86.[Partition List 分隔链表](linklist/86_partition_list.go)
 - 203.[Remove Linked List Elements 移除链表元素](./linklist/203_remove_elements.go)
