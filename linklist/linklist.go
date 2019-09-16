@@ -20,8 +20,9 @@ func CreateLinkList(vals []int) *ListNode {
 func CompareLinkList(SourceHead *ListNode, DestHead *ListNode) bool {
 	source := SourceHead
 	dest := DestHead
+
 	for source != nil {
-		if source.Val != dest.Val {
+		if dest == nil || source.Val != dest.Val {
 			return false
 		}
 		source = source.Next
