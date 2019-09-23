@@ -28,6 +28,9 @@ LeetCode 解题记录
 - 695.[Max Area of Island 岛屿的最大面积](./Go/695_maxAreaOfIsland.go)
 - 674.[Longest Continuous Increasing Subsequence 最长连续递增序列](./Go/674_findLengthOfLCIS.go)
 
+## string 字符串
+- 20.[Valid Parentheses 有效的括号](string/20_valid_parentheses.go)
+
 ## linklist 链表
 - 19.[Remove Nth Node From End of List 删除链表的倒数第N个节点](linklist/19_remove_nth_from_end_test.go)
 - 24.[Swap Nodes in Pairs 两两交换链表中的节点](./linklist/24_swap_pairs.go)
