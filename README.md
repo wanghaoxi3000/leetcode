@@ -30,6 +30,7 @@ LeetCode 解题记录
 
 ## string 字符串
 - 20.[Valid Parentheses 有效的括号](string/20_valid_parentheses.go)
+- 150.[Evaluate Reverse Polish Notation 逆波兰表达式求值](string/150_eval_RPN.go)
 
 ## linklist 链表
 - 19.[Remove Nth Node From End of List 删除链表的倒数第N个节点](linklist/19_remove_nth_from_end_test.go)
