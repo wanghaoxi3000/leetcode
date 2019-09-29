@@ -41,3 +41,6 @@ LeetCode 解题记录
 - 206.[Reverse Linked List 反转链表](linklist/206_reverse_linked_list.go)
 - 237.[Delete Node in a Linked List 删除链表中的节点](linklist/237_delete_node_in_a_inked_list.go)
 - 328.[Odd Even Linked List 奇偶链表](linklist/328_odd_even_linked_list.go)
+
+## tree 树
+- 144.[Binary Tree Preorder Traversal 二叉树的前序遍历](tree/preorder_traversal.go)
