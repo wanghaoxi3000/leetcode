@@ -43,4 +43,5 @@ LeetCode 解题记录
 - 328.[Odd Even Linked List 奇偶链表](linklist/328_odd_even_linked_list.go)
 
 ## tree 树
+- 94.[Binary Tree Inorder Traversal 二叉树的中序遍历](tree/inorder_traversal.go)
 - 144.[Binary Tree Preorder Traversal 二叉树的前序遍历](tree/preorder_traversal.go)
